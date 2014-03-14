@@ -64,6 +64,7 @@
   <project path="device/lge/mako" name="IllusionRom/android_device_lge_mako" groups="device,mako" />
   <project path="device/asus/deb" name="IllusionRom/android_device_asus_deb" groups="device,deb" />
   <project path="device/asus/flo" name="IllusionRom/android_device_asus_flo" groups="device,flo" />
+  <project path="device/samsung/crespo" name="IllusionRom/android_device_samsung_crespo" groups="device,crespo" />
 
   <!-- Custom Kernels -->
   <project path="kernel/lge/hammerhead" name="IllusionRom/android_kernel_lge_hammerhead" />
@@ -73,6 +74,7 @@
   
   <!-- Kernels -->
   <project path="kernel/samsung/d2" name="CyanogenMod/android_kernel_samsung_d2" remote="gh" revision="cm-11.0" />
+  <project path="kernel/samsung/crespo" name="CyanogenMod/android_kernel_samsung_crespo" remote="gh" revision="cm-11.0" />
 
   <!-- Superuser -->
   <project path="external/koush/Superuser" name="IllusionRom/android_platform_external_koush_superuser" />
