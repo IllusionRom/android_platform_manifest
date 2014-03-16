@@ -72,8 +72,6 @@
 
   <!-- Kernels -->
   <project path="kernel/samsung/d2" name="CyanogenMod/android_kernel_samsung_d2" remote="gh" revision="cm-11.0" />
-  <project path="kernel/google/msm" name="CyanogenMod/android_kernel_google_msm" remote="gh" revision="cm-11.0"/>
-
 
   <!-- Superuser -->
   <project path="external/koush/Superuser" name="IllusionRom/android_platform_external_koush_superuser" />
