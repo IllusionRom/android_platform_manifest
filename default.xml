@@ -53,6 +53,7 @@
   <!-- Common Devices Dependencies-->
   <project path="device/samsung/qcom-common" name="IllusionRom/android_device_samsung_qcom-common" />
   <project path="device/samsung/msm8960-common" name="IllusionRom/android_device_samsung_msm8960-common" />
+  <project path="device/qcom/common" name="IllusionRom/android_device_qcom_common" />
 
   <!-- Non-Nexus Devices -->
   <project path="device/samsung/aries-common" name="IllusionRom/android_device_samsung_aries-common" />
