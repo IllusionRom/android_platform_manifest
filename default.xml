@@ -2,7 +2,7 @@
 <manifest>
 
   <remote  name="illusionrom"
-           fetch="https://github.com/ILlusionRom" />
+           fetch="https://github.com/IllusionRom" />
            
   <remote  name="gh"
            fetch="https://github.com/" />         
