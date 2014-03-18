@@ -383,6 +383,7 @@
   <project path="hardware/qcom/bt" name="IllusionRom/android_platform_hardware_qcom_bt" groups="qcom" />
   <project path="hardware/qcom/camera" name="IllusionRom/android_platform_hardware_qcom_camera" groups="qcom" />
   <project path="hardware/qcom/display" name="IllusionRom/android_platform_hardware_qcom_display" groups="qcom" />
+  <project path="hardware/qcom/gps" name="IllusionRom/android_platform_hardware_qcom_gps" groups="qcom" />
   <project path="hardware/qcom/keymaster" name="IllusionRom/android_platform_hardware_qcom_keymaster" groups="qcom" />
   <project path="hardware/qcom/media" name="IllusionRom/android_platform_hardware_qcom_media" groups="qcom" />
   <project path="hardware/qcom/msm8960" name="IllusionRom/android_platform_hardware_qcom_msm8960" groups="qcom_msm8960" />
