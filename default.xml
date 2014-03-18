@@ -136,7 +136,7 @@
   <project path="external/bash" remote="gh" name="CyanogenMod/android_external_bash" revision="cm-11.0" />
   <project path="external/bison" remote="gh" name="CyanogenMod/android_external_bison" groups="pdk" revision="cm-11.0" />
   <project path="external/blktrace" remote="gh" name="CyanogenMod/android_external_blktrace" revision="cm-11.0" />
-  <project path="external/bluetooth/bluedroid" remote="ill" revision="illusion-4.4" name="android_external_bluetooth_bluedroid" groups="pdk" />
+  <project path="external/bluetooth/bluedroid" remote="ill" revision="illusion-4.4" name="android_platform_external_bluetooth_bluedroid" groups="pdk" />
   <project path="external/bouncycastle" remote="gh" name="CyanogenMod/android_external_bouncycastle" revision="cm-11.0" />
   <project path="external/bsdiff" remote="gh" name="CyanogenMod/android_external_bsdiff" revision="cm-11.0" groups="pdk" />
   <project path="external/busybox" remote="gh" name="CyanogenMod/android_external_busybox" revision="cm-11.0" />
