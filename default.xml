@@ -12,7 +12,7 @@
            fetch="https://android.googlesource.com"
            review="android-review.googlesource.com" />
 
-  <default revision="illusion-4.4"
+  <default revision="refs/tags/android-4.4.2_r1"
            remote="aosp"
            sync-j="4" />
 
