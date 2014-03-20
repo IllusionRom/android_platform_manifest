@@ -60,7 +60,6 @@
   <!-- Common Devices Dependencies-->
   <project path="device/samsung/qcom-common" remote="ill" revision="illusion-4.4" name="android_device_samsung_qcom-common" />
   <project path="device/samsung/msm8960-common" remote="ill" revision="illusion-4.4" name="android_device_samsung_msm8960-common" />
-  <project path="device/qcom/common" remote="gh" name="CyanogenMod/android_device_qcom_common" revision="cm-11.0" />
 
   <!-- Non-Nexus Devices -->
   <project path="device/samsung/aries-common" remote="ill" revision="illusion-4.4" name="android_device_samsung_aries-common" />
