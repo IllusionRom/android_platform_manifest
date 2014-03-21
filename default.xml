@@ -257,7 +257,7 @@
   <project path="external/libphonenumbergoogle" remote="gh" name="CyanogenMod/android_external_libphonenumbergoogle" revision="cm-11.0" />
   <project path="external/libpng" remote="gh" name="CyanogenMod/android_external_libpng" revision="cm-11.0" groups="pdk" />
   <project path="external/libppp" remote="gh" name="CyanogenMod/android_external_libppp" revision="cm-11.0" />
-  <project path="external/libselinux" remote="gh" name="CyanogenMod/android_external_libselinux" revision="cm-11.0" groups="pdk" />
+  <project path="external/libselinux" remote="ill" name="android_platform_external_libselinux" revision="illusion-4.4" groups="pdk" />
   <project path="external/sepolicy" remote="ill" revision="illusion-4.4" name="android_platform_external_sepolicy" groups="pdk" />
   <project path="external/libusb" remote="gh" name="CyanogenMod/android_external_libusb" revision="cm-11.0" />
   <project path="external/libusbx" remote="gh" name="CyanogenMod/android_external_libusbx" revision="cm-11.0" />
