@@ -60,11 +60,16 @@
   <!-- Common Devices Dependencies-->
   <project path="device/samsung/qcom-common" remote="ill" revision="illusion-4.4" name="android_device_samsung_qcom-common" />
   <project path="device/samsung/msm8960-common" remote="ill" revision="illusion-4.4" name="android_device_samsung_msm8960-common" />
+  <project path="device/qcom/common" remote="gh" name="CyanogenMod/android_device_qcom_common" revision="cm-11.0" />
+  <project path="device/sony/common" remote="ill" revision="illusion-4.4" name="android_device_sony_common" />
+  <project path="device/sony/rhine-common" remote="ill" revision="illusion-4.4" name="android_device_sony_rhine-common" />
+  <project path="device/sony/qcom-common" remote="ill" revision="illusion-4.4" name="android_device_sony_qcom-common" />
 
   <!-- Non-Nexus Devices -->
   <project path="device/samsung/aries-common" remote="ill" revision="illusion-4.4" name="android_device_samsung_aries-common" />
   <project path="device/samsung/galaxysmtd" remote="ill" revision="illusion-4.4" name="android_device_samsung_galaxysmtd" />
   <project path="device/samsung/d2lte" remote="ill" revision="illusion-4.4" name="android_device_samsung_d2lte" />
+  <project path="device/sony/honami" remote="ill" revision="illusion-4.4" name="android_device_sony_honami" />
 
   <!--Nexus Devices -->
   <project path="device/lge/hammerhead" remote="ill" revision="illusion-4.4" name="android_device_lge_hammerhead" groups="device,hammerhead" />
@@ -76,6 +81,7 @@
   <!-- Custom Kernels -->
   <project path="kernel/lge/hammerhead" remote="ill" revision="illusion-4.4" name="android_kernel_lge_hammerhead" />
   <project path="kernel/samsung/aries" remote="ill" revision="illusion-4.4" name="android_kernel_samsung_aries" />
+  <project path="kernel/sony/msm8974" remote="ill" revision="illusion-4.4" name="android_kernel_sony_msm8974" />
 
   <!-- Kernels -->
   <project path="kernel/samsung/d2" remote="gh" name="CyanogenMod/android_kernel_samsung_d2" revision="cm-11.0" />
