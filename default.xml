@@ -86,7 +86,7 @@
   <project path="kernel/samsung/d2" remote="gh" name="CyanogenMod/android_kernel_samsung_d2" revision="cm-11.0" />
 
   <!-- Superuser -->
-  <project path="external/koush/Superuser" remote="ill" revision="illusion-4.4" name="android_platform_external_koush_superuser" />
+  <project path="external/koush/Superuser" remote="gh" name="CyanogenMod/Superuser" revision="cm-11.0"/>
   <project path="external/koush/Widgets" remote="gh" name="CyanogenMod/Widgets" revision="cm-11.0" />
 
   <!-- Others -->
