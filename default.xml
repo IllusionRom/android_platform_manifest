@@ -63,12 +63,14 @@
   <project path="device/sony/common" remote="ill" revision="illusion-4.4" name="android_device_sony_common" />
   <project path="device/sony/rhine-common" remote="ill" revision="illusion-4.4" name="android_device_sony_rhine-common" />
   <project path="device/sony/qcom-common" remote="ill" revision="illusion-4.4" name="android_device_sony_qcom-common" />
+  <project name="android_device_htc_msm8660-common" path="device/htc/msm8660-common" remote="ill" revision="illusion-4.4" />
 
   <!-- Non-Nexus Devices -->
   <project path="device/samsung/aries-common" remote="ill" revision="illusion-4.4" name="android_device_samsung_aries-common" />
   <project path="device/samsung/galaxysmtd" remote="ill" revision="illusion-4.4" name="android_device_samsung_galaxysmtd" />
   <project path="device/samsung/d2lte" remote="ill" revision="illusion-4.4" name="android_device_samsung_d2lte" />
   <project path="device/sony/honami" remote="ill" revision="illusion-4.4" name="android_device_sony_honami" />
+  <project name="android_device_htc_vigor" path="device/htc/vigor" remote="ill" revision="illusion-4.4" />
 
   <!--Nexus Devices -->
   <project path="device/lge/hammerhead" remote="ill" revision="illusion-4.4" name="android_device_lge_hammerhead" groups="device,hammerhead" />
