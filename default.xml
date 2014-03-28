@@ -92,10 +92,8 @@
   <!-- Custom Kernels -->
   <project path="kernel/lge/hammerhead" remote="ill" revision="illusion-4.4" name="android_kernel_lge_hammerhead" />
   <project path="kernel/samsung/aries" remote="ill" revision="illusion-4.4" name="android_kernel_samsung_aries" />
+  <project path="kernel/samsung/d2" remote="ill" revision="illusion-4.4" name="android_kernel_samsung_d2" />
   <project path="kernel/sony/msm8974" remote="ill" revision="illusion-4.4" name="android_kernel_sony_msm8974" />
-
-  <!-- Kernels -->
-  <project path="kernel/samsung/d2" remote="gh" name="CyanogenMod/android_kernel_samsung_d2" revision="cm-11.0" />
 
   <!-- Superuser -->
   <project path="external/koush/Superuser" remote="gh" name="CyanogenMod/Superuser" revision="cm-11.0"/>
