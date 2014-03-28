@@ -69,7 +69,6 @@
 
   <!-- Non-Nexus Devices -->
   <project path="device/samsung/aries-common" remote="ill" revision="illusion-4.4" name="android_device_samsung_aries-common" />
-  <project path="device/lge/g2-common" remote="ill" revision="illusion-4.4" name="android_device_lge_g2-common" />
   <project path="device/lge/d800" remote="ill" revision="illusion-4.4" name="android_device_lge_d800" />
   <project path="device/lge/d801" remote="ill" revision="illusion-4.4" name="android_device_lge_d801" />
   <project path="device/lge/d802" remote="ill" revision="illusion-4.4" name="android_device_lge_d802" />
