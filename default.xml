@@ -113,6 +113,9 @@
   <project path="hardware/qcom/display-caf" remote="ill" revision="illusion-4.4" name="android_platform_hardware_qcom_display-caf" />
   <project path="hardware/qcom/media-caf" remote="ill" revision="illusion-4.4" name="android_platform_hardware_qcom_media-caf" />
 
+  <!-- Illusion Externals -->
+  <project path="external/bash" remote="ill" name="android_platform_external_bash" revision="illusion-4.4" />
+
   <!-- AOSP repos -->
   <project path="build" remote="ill" revision="illusion-4.4" name="android_platform_build" groups="pdk" >
     <copyfile src="core/root.mk" dest="Makefile" />
@@ -154,7 +157,6 @@
   <project path="external/apache-qp" remote="gh" name="CyanogenMod/android_external_apache-qp" revision="cm-11.0" />
   <project path="external/apache-xml" remote="gh" name="CyanogenMod/android_external_apache-xml" revision="cm-11.0" />
   <project path="external/arduino" remote="gh" name="CyanogenMod/android_external_arduino" revision="cm-11.0" />
-  <project path="external/bash" remote="gh" name="CyanogenMod/android_external_bash" revision="cm-11.0" />
   <project path="external/bison" remote="gh" name="CyanogenMod/android_external_bison" groups="pdk" revision="cm-11.0" />
   <project path="external/blktrace" remote="gh" name="CyanogenMod/android_external_blktrace" revision="cm-11.0" />
   <project path="external/bluetooth/bluedroid" remote="ill" revision="illusion-4.4" name="android_platform_external_bluetooth_bluedroid" groups="pdk" />
