@@ -48,10 +48,11 @@
   <project path="packages/apps/IllusionPapers" remote="ill" revision="illusion-4.4" name="android_platform_packages_apps_IllusionPapers" />
   <project path="packages/apps/PerformanceControl" remote="ill" revision="illusion-4.4" name="android_platform_packages_apps_PerformanceControl" />
   <project path="prebuilts/gcc/linux-x86/arm/custom-4.7" remote="ill" revision="illusion-4.4" name="android_platform_prebuilts_gcc_linux-x86_arm_boosted-arm-eabi-4.7" />
+  <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.7" remote="bb" revision="master" name="boostedtc/arm_boosted-arm-eabi-4.7" />
   <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.8" remote="bb" revision="master" name="boostedtc/arm_boosted-arm-eabi-4.8" />
   <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.9" remote="bb" revision="master" name="boostedtc/arm_boosted-arm-eabi-4.9" />
   <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.8" remote="bb" revision="master" name="boostedtc/arm_boosted-arm-linux-androideabi-4.8" />
-  <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9" remote="bb" revision="master" name="boostedtc/android_platform_prebuilts_gcc_linux-x86_arm_boosted-arm-linux" />
+  <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9" remote="bb" revision="master" name="boostedtc/arm_boosted-arm-linux-androideabi-4.9" />
 
 
    <!-- Illusion Vendors -->
