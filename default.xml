@@ -81,6 +81,7 @@
   <project path="device/samsung/i9305" remote="ill" revision="illusion-4.4" name="android_device_samsung_i9305" />
   <project path="device/sony/honami" remote="ill" revision="illusion-4.4" name="android_device_sony_honami" />
   <project path="device/htc/vigor" remote="ill" revision="illusion-4.4" name="android_device_htc_vigor" />
+  <project path="device/motorola/moto/msm8960dt" remote="ill" revision="illusion-4.4" name="android_device_motorola_moto_msm8960dt" />
 
   <!--Nexus Devices -->
   <project path="device/lge/hammerhead" remote="ill" revision="illusion-4.4" name="android_device_lge_hammerhead" groups="device,hammerhead" />
