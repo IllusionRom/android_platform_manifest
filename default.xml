@@ -43,6 +43,7 @@
   <project path="vendor/bn" remote="gh" name="TheMuppets/proprietary_vendor_bn" revision="cm-11.0" />
 
   <!-- Illusion Additions -->
+  <project path="frameworks/opt/cards" remote="ill" revision="illusion-4.4" name="android_platform_frameworks_opt_cards" />
   <project path="packages/apps/IllusionSettings" remote="ill" revision="illusion-4.4" name="android_platform_packages_apps_IllusionSettings" />
   <project path="packages/apps/Torch" remote="ill" revision="illusion-4.4" name="android_platform_packages_apps_Torch" />
   <project path="packages/apps/IllusionPapers" remote="ill" revision="illusion-4.4" name="android_platform_packages_apps_IllusionPapers" />
