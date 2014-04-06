@@ -92,7 +92,7 @@
   <project path="device/samsung/crespo" remote="ill" revision="illusion-4.4" name="android_device_samsung_crespo" groups="device,crespo" />
   
   <!-- Custom Kernels -->
-  <project path="kernel/lge/hammerhead" remote="gh" revision="stock" name="Cl3Kener/UBER-N5" />
+  <project path="kernel/lge/hammerhead" remote="ill" revision="illusion-4.4" name="UBER-N5" />
   <project path="kernel/samsung/aries" remote="ill" revision="illusion-4.4" name="android_kernel_samsung_aries" />
   <project path="kernel/samsung/d2" remote="ill" revision="illusion-4.4" name="android_kernel_samsung_d2" />
   <project path="kernel/sony/msm8974" remote="ill" revision="illusion-4.4" name="android_kernel_sony_msm8974" />
