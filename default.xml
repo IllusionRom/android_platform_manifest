@@ -8,6 +8,9 @@
   <remote  name="gh"
            fetch="https://github.com/" />
 
+  <remote  name="brickedgit"
+           fetch="https://git.bricked.de/" />
+
   <remote  name="bb"
            fetch="https://bitbucket.org/" />
 
@@ -52,6 +55,7 @@
   <project path="prebuilts/gcc/linux-x86/arm/boosted-4.7" remote="bb" revision="master" name="boostedtc/arm_boosted-arm-eabi-4.7" />
   <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.8" remote="bb" revision="master" name="boostedtc/arm_boosted-arm-eabi-4.8" />
   <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.9" remote="bb" revision="master" name="boostedtc/arm_boosted-arm-eabi-4.9" />
+  <project path="prebuilts/gcc/linux-x86/arm/linaro-arm-eabi-4-7" remote="brickedgit" revision="master" name="bricked/android_platform_prebuilts_gcc_linux-x86_arm_linaro-arm-eabi-4-7.git" />
   <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.8" remote="bb" revision="master" name="boostedtc/arm_boosted-arm-linux-androideabi-4.8" />
   <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9" remote="bb" revision="master" name="boostedtc/arm_boosted-arm-linux-androideabi-4.9" />
 
