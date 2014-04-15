@@ -209,7 +209,7 @@
   <project path="external/doclava" remote="gh" name="CyanogenMod/android_external_doclava" revision="cm-11.0" />
   <project path="external/dropbear" remote="gh" name="CyanogenMod/android_external_dropbear" revision="cm-11.0" />
   <project path="external/droiddriver" name="platform/external/droiddriver" revision="refs/tags/android-4.4.2_r1" />
-  <project path="external/e2fsprogs" remote="gh" name="CyanogenMod/android_external_e2fsprogs" revision="cm-11.0" groups="pdk" />
+  <project path="external/e2fsprogs" remote="ill" name="android_platform_external_e2fsprogs" revision="illusion-4.4" groups="pdk" />
   <project path="external/easymock" remote="gh" name="CyanogenMod/android_external_easymock" revision="cm-11.0" />
   <project path="external/eclipse-basebuilder" remote="gh" name="CyanogenMod/android_external_eclipse-basebuilder" revision="cm-11.0" />
   <project path="external/eclipse-windowbuilder" remote="gh" name="CyanogenMod/android_external_eclipse-windowbuilder" revision="cm-11.0" />
@@ -225,7 +225,7 @@
   <project path="external/flac" remote="gh" name="CyanogenMod/android_external_flac" revision="cm-11.0" groups="pdk" />
   <project path="external/freetype" remote="gh" name="CyanogenMod/android_external_freetype" revision="cm-11.0" groups="pdk" />
   <project path="external/fsck_msdos" remote="gh" name="CyanogenMod/android_external_fsck_msdos" revision="cm-11.0" />
-  <project path="external/fuse" remote="gh" name="CyanogenMod/android_external_fuse" revision="cm-11.0" />
+  <project path="external/fuse" remote="ill" name="android_platform_external_fuse" revision="illusion-4.4" />
   <project path="external/ganymed-ssh2" remote="gh" name="CyanogenMod/android_external_ganymed-ssh2" revision="cm-11.0" />
   <project path="external/gcc-demangle" remote="gh" name="CyanogenMod/android_external_gcc-demangle" revision="cm-11.0" groups="pdk" />
   <project path="external/genext2fs" remote="gh" name="CyanogenMod/android_external_genext2fs" revision="cm-11.0" />
