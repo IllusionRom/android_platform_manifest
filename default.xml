@@ -50,6 +50,7 @@
   <project path="packages/apps/PerformanceControl" remote="ill" revision="illusion-4.4" name="android_platform_packages_apps_PerformanceControl" />
   <project path="prebuilts/gcc/linux-x86/arm/custom-4.7" remote="ill" revision="illusion-4.4" name="android_platform_prebuilts_gcc_linux-x86_arm_boosted-arm-eabi-4.7" />
   <project path="prebuilts/gcc/linux-x86/arm/linaro-arm-eabi-4-7" remote="brickedgit" revision="master" name="bricked/android_platform_prebuilts_gcc_linux-x86_arm_linaro-arm-eabi-4-7.git" />
+  <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.10" remote="brickedgit" revision="ubuntu" name="aznrice/arm_boosted-arm-eabi-4-10.git" />
 
   <!-- Illusion Vendors -->
   <project path="vendor/illusion" remote="ill" revision="illusion-4.4" name="android_platform_vendor_illusion">
