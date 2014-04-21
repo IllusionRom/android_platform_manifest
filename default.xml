@@ -85,6 +85,7 @@
   <project path="device/asus/deb" remote="ill" revision="illusion-4.4" name="android_device_asus_deb" groups="device,deb" />
   <project path="device/asus/flo" remote="ill" revision="illusion-4.4" name="android_device_asus_flo" groups="device,flo" />
   <project path="device/asus/grouper" remote="ill" revision="illusion-4.4" name="android_device_asus_grouper" groups="device,grouper" />
+  <project path="device/asus/tilapia" remote="ill" revision="illusion-4.4" name="android_device_asus_tilapia" groups="device,tilapia" />
   <project path="device/samsung/crespo" remote="ill" revision="illusion-4.4" name="android_device_samsung_crespo" groups="device,crespo" />
   
   <!-- Custom Kernels -->
