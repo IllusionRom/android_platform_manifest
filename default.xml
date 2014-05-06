@@ -113,6 +113,9 @@
 
   <!-- Illusion Externals -->
   <project path="external/bash" remote="ill" name="android_platform_external_bash" revision="illusion-4.4" />
+  <project path="external/ffmpeg" remote="ill" name="android_platform_external_ffmpeg" revision="illusion-4.4" />
+  <project path="external/stagefright-plugins" remote="ill" name="android_platform_external_stagefright-plugins" revision="illusion-4.4" />
+
 
   <!-- AOSP repos -->
   <project path="build" remote="ill" revision="illusion-4.4" name="android_platform_build" groups="pdk" >
