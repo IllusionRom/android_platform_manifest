@@ -95,7 +95,7 @@
   <project path="kernel/sony/msm8974" remote="ill" revision="illusion-4.4" name="android_kernel_sony_msm8974" />
 
   <!-- Superuser -->
-  <project path="external/koush/Superuser" remote="gh" name="CyanogenMod/Superuser" revision="cm-11.0"/>
+  <project path="external/koush/Superuser" remote="ill" name="Superuser" revision="illusion-4.4"/>
   <project path="external/koush/Widgets" remote="gh" name="CyanogenMod/Widgets" revision="cm-11.0" />
 
   <!-- Others -->
