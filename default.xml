@@ -24,7 +24,7 @@
 
   <!-- Device Vendors -->
   <project path="vendor/samsung" remote="gh" name="TheMuppets/proprietary_vendor_samsung" revision="cm-11.0" />
-  <project path="vendor/lge" remote="gh" name="TheMuppets/proprietary_vendor_lge" revision="cm-11.0" />
+  <project path="vendor/lge" remote="ill" name="proprietary_vendor_lge" revision="illusion-4.4" />
   <project path="vendor/broadcom" remote="gh" name="TheMuppets/proprietary_vendor_broadcom" revision="cm-11.0" />
   <project path="vendor/asus" remote="ill" revision="illusion-4.4" name="android_platform_vendor_asus" />
   <project path="vendor/oppo" remote="gh" name="TheMuppets/proprietary_vendor_oppo" revision="cm-11.0" />
