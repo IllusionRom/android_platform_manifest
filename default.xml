@@ -15,7 +15,7 @@
            fetch="https://android.googlesource.com"
            review="android-review.googlesource.com" />
 
-  <default revision="refs/tags/android-4.4.3_r1"
+  <default revision="refs/tags/android-4.4.3_r1.1"
            remote="aosp"
            sync-j="4" />
 
@@ -166,36 +166,36 @@
   <project path="external/bsdiff" remote="gh" name="CyanogenMod/android_external_bsdiff" revision="cm-11.0" groups="pdk" />
   <project path="external/busybox" remote="gh" name="CyanogenMod/android_external_busybox" revision="cm-11.0" />
   <project path="external/bzip2" remote="gh" name="CyanogenMod/android_external_bzip2" revision="cm-11.0" groups="pdk" />
-  <project path="external/ceres-solver" name="platform/external/ceres-solver" revision="refs/tags/android-4.4.3_r1" />
+  <project path="external/ceres-solver" name="platform/external/ceres-solver" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="external/checkpolicy" remote="gh" name="CyanogenMod/android_external_checkpolicy" revision="cm-11.0" groups="pdk" />
   <project path="external/chromium" remote="gh" name="CyanogenMod/android_external_chromium" revision="cm-11.0" />
-  <project path="external/chromium-libpac" name="platform/external/chromium-libpac" revision="refs/tags/android-4.4.3_r1" />
+  <project path="external/chromium-libpac" name="platform/external/chromium-libpac" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="external/chromium-trace" remote="gh" name="CyanogenMod/android_external_chromium-trace" revision="cm-11.0" groups="pdk" />
   <project path="external/chromium_org" remote="ill" revision="illusion-4.4" name="android_platform_external_chromium_org" />
-  <project path="external/chromium_org/sdch/open-vcdiff" name="platform/external/chromium_org/sdch/open-vcdiff" revision="refs/tags/android-4.4.3_r1" />
-  <project path="external/chromium_org/testing/gtest" name="platform/external/chromium_org/testing/gtest" revision="refs/tags/android-4.4.3_r1" />
-  <project path="external/chromium_org/third_party/WebKit" name="platform/external/chromium_org/third_party/WebKit" revision="refs/tags/android-4.4.3_r1" />
-  <project path="external/chromium_org/third_party/angle" name="platform/external/chromium_org/third_party/angle" revision="refs/tags/android-4.4.3_r1" />
-  <project path="external/chromium_org/third_party/eyesfree/src/android/java/src/com/googlecode/eyesfree/braille" name="platform/external/chromium_org/third_party/eyesfree/src/android/java/src/com/googlecode/eyesfree/braille" revision="refs/tags/android-4.4.3_r1" />
-  <project path="external/chromium_org/third_party/freetype" name="platform/external/chromium_org/third_party/freetype" revision="refs/tags/android-4.4.3_r1" />
-  <project path="external/chromium_org/third_party/icu" name="platform/external/chromium_org/third_party/icu" revision="refs/tags/android-4.4.3_r1" />
-  <project path="external/chromium_org/third_party/leveldatabase/src" name="platform/external/chromium_org/third_party/leveldatabase/src" revision="refs/tags/android-4.4.3_r1" />
-  <project path="external/chromium_org/third_party/libjingle/source/talk" name="platform/external/chromium_org/third_party/libjingle/source/talk" revision="refs/tags/android-4.4.3_r1" />
-  <project path="external/chromium_org/third_party/libphonenumber/src/phonenumbers" name="platform/external/chromium_org/third_party/libphonenumber/src/phonenumbers" revision="refs/tags/android-4.4.3_r1" />
-  <project path="external/chromium_org/third_party/libphonenumber/src/resources" name="platform/external/chromium_org/third_party/libphonenumber/src/resources" revision="refs/tags/android-4.4.3_r1" />
-  <project path="external/chromium_org/third_party/mesa/src" name="platform/external/chromium_org/third_party/mesa/src" revision="refs/tags/android-4.4.3_r1" />
-  <project path="external/chromium_org/third_party/openssl" name="platform/external/chromium_org/third_party/openssl" revision="refs/tags/android-4.4.3_r1" />
-  <project path="external/chromium_org/third_party/opus/src" name="platform/external/chromium_org/third_party/opus/src" revision="refs/tags/android-4.4.3_r1" />
-  <project path="external/chromium_org/third_party/ots" name="platform/external/chromium_org/third_party/ots" revision="refs/tags/android-4.4.3_r1" />
-  <project path="external/chromium_org/third_party/sfntly/cpp/src" name="platform/external/chromium_org/third_party/sfntly/cpp/src" revision="refs/tags/android-4.4.3_r1" />
-  <project path="external/chromium_org/third_party/skia/gyp" name="platform/external/chromium_org/third_party/skia/gyp" revision="refs/tags/android-4.4.3_r1" />
-  <project path="external/chromium_org/third_party/skia/include" name="platform/external/chromium_org/third_party/skia/include" revision="refs/tags/android-4.4.3_r1" />
-  <project path="external/chromium_org/third_party/skia/src" name="platform/external/chromium_org/third_party/skia/src" revision="refs/tags/android-4.4.3_r1" />
-  <project path="external/chromium_org/third_party/smhasher/src" name="platform/external/chromium_org/third_party/smhasher/src" revision="refs/tags/android-4.4.3_r1" />
-  <project path="external/chromium_org/third_party/yasm/source/patched-yasm" name="platform/external/chromium_org/third_party/yasm/source/patched-yasm" revision="refs/tags/android-4.4.3_r1" />
-  <project path="external/chromium_org/tools/grit" name="platform/external/chromium_org/tools/grit" revision="refs/tags/android-4.4.3_r1" />
-  <project path="external/chromium_org/tools/gyp" name="platform/external/chromium_org/tools/gyp" revision="refs/tags/android-4.4.3_r1" />
-  <project path="external/chromium_org/v8" name="platform/external/chromium_org/v8" revision="refs/tags/android-4.4.3_r1" />
+  <project path="external/chromium_org/sdch/open-vcdiff" name="platform/external/chromium_org/sdch/open-vcdiff" revision="refs/tags/android-4.4.3_r1.1" />
+  <project path="external/chromium_org/testing/gtest" name="platform/external/chromium_org/testing/gtest" revision="refs/tags/android-4.4.3_r1.1" />
+  <project path="external/chromium_org/third_party/WebKit" name="platform/external/chromium_org/third_party/WebKit" revision="refs/tags/android-4.4.3_r1.1" />
+  <project path="external/chromium_org/third_party/angle" name="platform/external/chromium_org/third_party/angle" revision="refs/tags/android-4.4.3_r1.1" />
+  <project path="external/chromium_org/third_party/eyesfree/src/android/java/src/com/googlecode/eyesfree/braille" name="platform/external/chromium_org/third_party/eyesfree/src/android/java/src/com/googlecode/eyesfree/braille" revision="refs/tags/android-4.4.3_r1.1" />
+  <project path="external/chromium_org/third_party/freetype" name="platform/external/chromium_org/third_party/freetype" revision="refs/tags/android-4.4.3_r1.1" />
+  <project path="external/chromium_org/third_party/icu" name="platform/external/chromium_org/third_party/icu" revision="refs/tags/android-4.4.3_r1.1" />
+  <project path="external/chromium_org/third_party/leveldatabase/src" name="platform/external/chromium_org/third_party/leveldatabase/src" revision="refs/tags/android-4.4.3_r1.1" />
+  <project path="external/chromium_org/third_party/libjingle/source/talk" name="platform/external/chromium_org/third_party/libjingle/source/talk" revision="refs/tags/android-4.4.3_r1.1" />
+  <project path="external/chromium_org/third_party/libphonenumber/src/phonenumbers" name="platform/external/chromium_org/third_party/libphonenumber/src/phonenumbers" revision="refs/tags/android-4.4.3_r1.1" />
+  <project path="external/chromium_org/third_party/libphonenumber/src/resources" name="platform/external/chromium_org/third_party/libphonenumber/src/resources" revision="refs/tags/android-4.4.3_r1.1" />
+  <project path="external/chromium_org/third_party/mesa/src" name="platform/external/chromium_org/third_party/mesa/src" revision="refs/tags/android-4.4.3_r1.1" />
+  <project path="external/chromium_org/third_party/openssl" name="platform/external/chromium_org/third_party/openssl" revision="refs/tags/android-4.4.3_r1.1" />
+  <project path="external/chromium_org/third_party/opus/src" name="platform/external/chromium_org/third_party/opus/src" revision="refs/tags/android-4.4.3_r1.1" />
+  <project path="external/chromium_org/third_party/ots" name="platform/external/chromium_org/third_party/ots" revision="refs/tags/android-4.4.3_r1.1" />
+  <project path="external/chromium_org/third_party/sfntly/cpp/src" name="platform/external/chromium_org/third_party/sfntly/cpp/src" revision="refs/tags/android-4.4.3_r1.1" />
+  <project path="external/chromium_org/third_party/skia/gyp" name="platform/external/chromium_org/third_party/skia/gyp" revision="refs/tags/android-4.4.3_r1.1" />
+  <project path="external/chromium_org/third_party/skia/include" name="platform/external/chromium_org/third_party/skia/include" revision="refs/tags/android-4.4.3_r1.1" />
+  <project path="external/chromium_org/third_party/skia/src" name="platform/external/chromium_org/third_party/skia/src" revision="refs/tags/android-4.4.3_r1.1" />
+  <project path="external/chromium_org/third_party/smhasher/src" name="platform/external/chromium_org/third_party/smhasher/src" revision="refs/tags/android-4.4.3_r1.1" />
+  <project path="external/chromium_org/third_party/yasm/source/patched-yasm" name="platform/external/chromium_org/third_party/yasm/source/patched-yasm" revision="refs/tags/android-4.4.3_r1.1" />
+  <project path="external/chromium_org/tools/grit" name="platform/external/chromium_org/tools/grit" revision="refs/tags/android-4.4.3_r1.1" />
+  <project path="external/chromium_org/tools/gyp" name="platform/external/chromium_org/tools/gyp" revision="refs/tags/android-4.4.3_r1.1" />
+  <project path="external/chromium_org/v8" name="platform/external/chromium_org/v8" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="external/clang" remote="gh" name="CyanogenMod/android_external_clang" revision="cm-11.0" groups="pdk" />
   <project path="external/compiler-rt" remote="gh" name="CyanogenMod/android_external_compiler-rt" revision="cm-11.0" groups="pdk" />
   <project path="external/connectivity" remote="gh" name="CyanogenMod/android_external_connectivity" revision="cm-11.0" />
@@ -205,7 +205,7 @@
   <project path="external/dnsmasq" remote="gh" name="CyanogenMod/android_external_dnsmasq" revision="cm-11.0" groups="pdk" />
   <project path="external/doclava" remote="gh" name="CyanogenMod/android_external_doclava" revision="cm-11.0" />
   <project path="external/dropbear" remote="gh" name="CyanogenMod/android_external_dropbear" revision="cm-11.0" />
-  <project path="external/droiddriver" name="platform/external/droiddriver" revision="refs/tags/android-4.4.3_r1" />
+  <project path="external/droiddriver" name="platform/external/droiddriver" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="external/e2fsprogs" remote="ill" name="android_platform_external_e2fsprogs" revision="illusion-4.4" groups="pdk" />
   <project path="external/easymock" remote="gh" name="CyanogenMod/android_external_easymock" revision="cm-11.0" />
   <project path="external/eclipse-basebuilder" remote="gh" name="CyanogenMod/android_external_eclipse-basebuilder" revision="cm-11.0" />
@@ -235,7 +235,7 @@
   <project path="external/guava" remote="gh" name="CyanogenMod/android_external_guava" revision="cm-11.0" />
   <project path="external/hamcrest" remote="gh" name="CyanogenMod/android_external_hamcrest" revision="cm-11.0" />
   <project path="external/harfbuzz" remote="gh" name="CyanogenMod/android_external_harfbuzz" revision="cm-11.0" />
-  <project path="external/harfbuzz_ng" name="platform/external/harfbuzz_ng" revision="refs/tags/android-4.4.3_r1" />
+  <project path="external/harfbuzz_ng" name="platform/external/harfbuzz_ng" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="external/heimdall" remote="gh" name="CyanogenMod/android_external_heimdall" revision="cm-11.0" />
   <project path="external/htop" remote="gh" name="CyanogenMod/android_external_htop" revision="cm-11.0" />
   <project path="external/hyphenation" remote="gh" name="CyanogenMod/android_external_hyphenation" revision="cm-11.0" />
@@ -243,7 +243,7 @@
   <project path="external/iproute2" remote="gh" name="CyanogenMod/android_external_iproute2" revision="cm-11.0" groups="pdk" />
   <project path="external/ipsec-tools" remote="gh" name="CyanogenMod/android_external_ipsec-tools" revision="cm-11.0" />
   <project path="external/iptables" remote="gh" name="CyanogenMod/android_external_iptables" revision="cm-11.0" />
-  <project path="external/iputils" name="platform/external/iputils" revision="refs/tags/android-4.4.3_r1" />
+  <project path="external/iputils" name="platform/external/iputils" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="external/jack" remote="gh" name="CyanogenMod/android_external_jack" revision="cm-11.0" />
   <project path="external/javasqlite" remote="gh" name="CyanogenMod/android_external_javasqlite" revision="cm-11.0" />
   <project path="external/javassist" remote="gh" name="CyanogenMod/android_external_javassist" revision="cm-11.0" />
@@ -286,15 +286,15 @@
   <project path="external/linux-tools-perf" remote="gh" name="CyanogenMod/android_external_linux-tools-perf" revision="cm-11.0" />
   <project path="external/littlemock" remote="gh" name="CyanogenMod/android_external_littlemock" revision="cm-11.0" />
   <project path="external/llvm" remote="gh" name="CyanogenMod/android_external_llvm" revision="cm-11.0" groups="pdk" />
-  <project path="external/lzma" name="platform/external/lzma" revision="refs/tags/android-4.4.3_r1" />
+  <project path="external/lzma" name="platform/external/lzma" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="external/lsof" remote="gh" name="CyanogenMod/android_external_lsof" revision="cm-11.0" />
   <project path="external/lzo" remote="gh" name="CyanogenMod/android_external_lzo" revision="cm-11.0" />
-  <project path="external/marisa-trie" name="platform/external/marisa-trie" revision="refs/tags/android-4.4.3_r1" />
+  <project path="external/marisa-trie" name="platform/external/marisa-trie" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="external/markdown" remote="gh" name="CyanogenMod/android_external_markdown" revision="cm-11.0" />
   <project path="external/mdnsresponder" remote="gh" name="CyanogenMod/android_external_mdnsresponder" revision="cm-11.0" groups="pdk" />
-  <project path="external/mesa3d" name="platform/external/mesa3d" revision="refs/tags/android-4.4.3_r1" />
+  <project path="external/mesa3d" name="platform/external/mesa3d" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="external/mksh" remote="gh" name="CyanogenMod/android_external_mksh" revision="cm-11.0" groups="pdk" />
-  <project path="external/mockito" name="platform/external/mockito" revision="refs/tags/android-4.4.3_r1" />
+  <project path="external/mockito" name="platform/external/mockito" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="external/mockwebserver" remote="gh" name="CyanogenMod/android_external_mockwebserver" revision="cm-11.0" />
   <project path="external/mp4parser" remote="gh" name="CyanogenMod/android_external_mp4parser" revision="cm-11.0" />
   <project path="external/mtpd" remote="gh" name="CyanogenMod/android_external_mtpd" revision="cm-11.0" />
@@ -303,14 +303,14 @@
   <project path="external/netcat" remote="gh" name="CyanogenMod/android_external_netcat" revision="cm-11.0" />
   <project path="external/netperf" remote="gh" name="CyanogenMod/android_external_netperf" revision="cm-11.0" />
   <project path="external/neven" remote="gh" name="CyanogenMod/android_external_neven" revision="cm-11.0" />
-  <project path="external/nist-pkits" name="platform/external/nist-pkits" revision="refs/tags/android-4.4.3_r1" />
+  <project path="external/nist-pkits" name="platform/external/nist-pkits" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="external/nist-sip" remote="gh" name="CyanogenMod/android_external_nist-sip" revision="cm-11.0" />
-  <project path="external/noto-fonts" name="platform/external/noto-fonts" revision="refs/tags/android-4.4.3_r1" />
+  <project path="external/noto-fonts" name="platform/external/noto-fonts" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="external/ntfs-3g" remote="gh" name="CyanogenMod/android_external_ntfs-3g" revision="cm-11.0" />
   <project path="external/oauth" remote="gh" name="CyanogenMod/android_external_oauth" revision="cm-11.0" />
-  <project path="external/objenesis" name="platform/external/objenesis" revision="refs/tags/android-4.4.3_r1" />
+  <project path="external/objenesis" name="platform/external/objenesis" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="external/okhttp" remote="gh" name="CyanogenMod/android_external_okhttp" revision="cm-11.0" />
-  <project path="external/open-vcdiff" name="platform/external/open-vcdiff" revision="refs/tags/android-4.4.3_r1" />
+  <project path="external/open-vcdiff" name="platform/external/open-vcdiff" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="external/opencv" remote="gh" name="CyanogenMod/android_external_opencv" revision="cm-11.0" />
   <project path="external/openfst" remote="gh" name="CyanogenMod/android_external_openfst" revision="cm-11.0" />
   <project path="external/openssh" remote="gh" name="CyanogenMod/android_external_openssh" revision="cm-11.0" />
@@ -318,7 +318,7 @@
   <project path="external/oprofile" remote="gh" name="CyanogenMod/android_external_oprofile" revision="cm-11.0" />
   <project path="external/pciutils" remote="gh" name="CyanogenMod/android_external_pciutils" revision="cm-11.0" />
   <project path="external/pigz" remote="gh" name="CyanogenMod/android_external_pigz" revision="cm-11.0" />
-  <project path="external/pixman" name="platform/external/pixman" revision="refs/tags/android-4.4.3_r1" />
+  <project path="external/pixman" name="platform/external/pixman" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="external/powertop" remote="gh" name="CyanogenMod/android_external_powertop" revision="cm-11.0" />
   <project path="external/ppp" remote="gh" name="CyanogenMod/android_external_ppp" revision="cm-11.0" />
   <project path="external/proguard" remote="gh" name="CyanogenMod/android_external_proguard" revision="cm-11.0" groups="pdk-java" />
@@ -328,16 +328,16 @@
   <project path="external/qrngd" remote="gh" name="CyanogenMod/android_external_qrngd" revision="cm-11.0" />
   <project path="external/regex-re2" remote="gh" name="CyanogenMod/android_external_regex-re2" revision="cm-11.0" />
   <project path="external/replicaisland" remote="gh" name="CyanogenMod/android_external_replicaisland" revision="cm-11.0" />
-  <project path="external/robolectric" name="platform/external/robolectric" revision="refs/tags/android-4.4.3_r1" />
+  <project path="external/robolectric" name="platform/external/robolectric" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="external/rsync" remote="gh" name="CyanogenMod/android_external_rsync" revision="cm-11.0" />
   <project path="external/safe-iop" remote="gh" name="CyanogenMod/android_external_safe-iop" revision="cm-11.0" groups="pdk" />
-  <project path="external/scrypt" name="platform/external/scrypt" groups="pdk" revision="refs/tags/android-4.4.3_r1" />
+  <project path="external/scrypt" name="platform/external/scrypt" groups="pdk" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="external/libsepol" remote="gh" name="CyanogenMod/android_external_libsepol" revision="cm-11.0" groups="pdk" />
   <project path="external/libssh2" remote="gh" name="CyanogenMod/android_external_libssh2" revision="cm-11.0" />
-  <project path="external/sfntly" name="platform/external/sfntly" revision="refs/tags/android-4.4.3_r1" />
-  <project path="external/sil-fonts" name="platform/external/sil-fonts" revision="refs/tags/android-4.4.3_r1" />
+  <project path="external/sfntly" name="platform/external/sfntly" revision="refs/tags/android-4.4.3_r1.1" />
+  <project path="external/sil-fonts" name="platform/external/sil-fonts" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="external/skia" remote="gh" name="CyanogenMod/android_external_skia" revision="cm-11.0" />
-  <project path="external/smack" name="platform/external/smack" revision="refs/tags/android-4.4.3_r1" />
+  <project path="external/smack" name="platform/external/smack" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="external/smali" remote="gh" name="CyanogenMod/android_external_smali" revision="cm-11.0" />
   <project path="external/sonivox" remote="gh" name="CyanogenMod/android_external_sonivox" revision="cm-11.0" groups="pdk" />
   <project path="external/speex" remote="gh" name="CyanogenMod/android_external_speex" revision="cm-11.0" groups="pdk" />
@@ -351,9 +351,9 @@
   <project path="external/svox" remote="gh" name="CyanogenMod/android_external_svox" revision="cm-11.0" />
   <project path="external/tagsoup" remote="gh" name="CyanogenMod/android_external_tagsoup" revision="cm-11.0" />
   <project path="external/tcpdump" remote="gh" name="CyanogenMod/android_external_tcpdump" revision="cm-11.0" />
-  <project path="external/timezonepicker-support" name="platform/external/timezonepicker-support" revision="refs/tags/android-4.4.3_r1" />
+  <project path="external/timezonepicker-support" name="platform/external/timezonepicker-support" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="external/tinyalsa" remote="gh" name="CyanogenMod/android_external_tinyalsa" revision="cm-11.0" groups="pdk" />
-  <project path="external/tinycompress" name="platform/external/tinycompress" groups="pdk" revision="refs/tags/android-4.4.3_r1" />
+  <project path="external/tinycompress" name="platform/external/tinycompress" groups="pdk" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="external/tinyxml" remote="gh" name="CyanogenMod/android_external_tinyxml" revision="cm-11.0" groups="pdk" />
   <project path="external/tinyxml2" remote="gh" name="CyanogenMod/android_external_tinyxml2" revision="cm-11.0" groups="pdk" />
   <project path="external/tremolo" remote="gh" name="CyanogenMod/android_external_tremolo" revision="cm-11.0" groups="pdk" />
@@ -391,7 +391,7 @@
   <project path="frameworks/opt/timezonepicker" remote="ill" revision="illusion-4.4" name="android_platform_frameworks_opt_timezonepicker" />
   <project path="frameworks/opt/telephony" remote="ill" revision="illusion-4.4" name="android_platform_frameworks_opt_telephony" groups="pdk" />
   <project path="frameworks/opt/vcard" remote="ill" revision="illusion-4.4" name="android_platform_frameworks_opt_vcard" />
- <project path="frameworks/opt/widget" name="platform/frameworks/opt/widget" revision="refs/tags/android-4.4.3_r1" />
+ <project path="frameworks/opt/widget" name="platform/frameworks/opt/widget" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="frameworks/rs" remote="ill" revision="illusion-4.4" name="android_platform_frameworks_rs" groups="pdk" />
   <project path="frameworks/support" remote="ill" revision="illusion-4.4" name="android_platform_frameworks_support" />
   <project path="frameworks/testing" remote="ill" revision="illusion-4.4" name="android_platform_frameworks_testing" />
@@ -532,8 +532,8 @@
   <project path="prebuilts/gcc/linux-x86/x86/i686-linux-android-4.6" remote="ill" revision="illusion-4.4" name="android_platform_prebuilts_gcc_linux-x86_x86_i686-linux-android-4.6" groups="pdk,linux,x86" />
   <project path="prebuilts/gcc/linux-x86/x86/i686-linux-android-4.7" remote="ill" revision="illusion-4.4" name="android_platform_prebuilts_gcc_linux-x86_x86_i686-linux-android-4.7" groups="pdk,linux,x86" />
   <project path="prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.7" remote="ill" revision="illusion-4.4" name="android_platform_prebuilts_gcc_linux-x86_x86_x86_64-linux-android-4.7" groups="pdk,linux,x86" />
-  <project path="prebuilts/gradle-plugin" name="platform/prebuilts/gradle-plugin" revision="refs/tags/android-4.4.3_r1" />
-  <project path="prebuilts/maven_repo/android" name="platform/prebuilts/maven_repo/android" revision="refs/tags/android-4.4.3_r1" />
+  <project path="prebuilts/gradle-plugin" name="platform/prebuilts/gradle-plugin" revision="refs/tags/android-4.4.3_r1.1" />
+  <project path="prebuilts/maven_repo/android" name="platform/prebuilts/maven_repo/android" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="prebuilts/misc" remote="ill" revision="illusion-4.4" name="android_platform_prebuilts_misc" groups="pdk" />
   <project path="prebuilts/ndk" remote="ill" revision="illusion-4.4" name="android_platform_prebuilts_ndk" groups="pdk" />
   <project path="prebuilts/python/darwin-x86/2.7.5" remote="ill" revision="illusion-4.4" name="android_platform_prebuilts_python_darwin-x86_2.7.5" groups="darwin" />
