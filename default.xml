@@ -258,7 +258,7 @@
   <project path="external/kernel-headers" remote="gh" name="CyanogenMod/android_external_kernel-headers" revision="cm-11.0" />
   <project path="external/kissfft" remote="gh" name="CyanogenMod/android_external_kissfft" revision="cm-11.0" />
   <project path="external/libcap-ng" remote="gh" name="CyanogenMod/android_external_libcap-ng" revision="cm-11.0" />
-  <project path="external/libexif" remote="gh" name="CyanogenMod/android_external_libexif" revision="cm-11.0" />
+  <project path="external/libexif" name="platform/external/libexif" revision="kitkat-mr2-release" />
   <project path="external/libffi" remote="gh" name="CyanogenMod/android_external_libffi" revision="cm-11.0" />
   <project path="external/libgsm" remote="gh" name="CyanogenMod/android_external_libgsm" revision="cm-11.0" groups="pdk" />
   <project path="external/liblzf" remote="gh" name="CyanogenMod/android_external_liblzf" revision="cm-11.0" groups="pdk" />
