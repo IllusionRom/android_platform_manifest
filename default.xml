@@ -333,7 +333,7 @@
   <project path="external/safe-iop" remote="gh" name="CyanogenMod/android_external_safe-iop" revision="cm-11.0" groups="pdk" />
   <project path="external/scrypt" name="platform/external/scrypt" groups="pdk" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="external/libsepol" remote="gh" name="CyanogenMod/android_external_libsepol" revision="cm-11.0" groups="pdk" />
-  <project path="external/libssh2" remote="gh" name="CyanogenMod/android_external_libssh2" revision="cm-11.0" />
+  <project path="external/libssh2" name="platform/external/libssh2" />
   <project path="external/sfntly" name="platform/external/sfntly" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="external/sil-fonts" name="platform/external/sil-fonts" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="external/skia" remote="gh" name="CyanogenMod/android_external_skia" revision="cm-11.0" />
