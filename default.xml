@@ -90,7 +90,6 @@
   <project path="device/samsung/crespo" remote="ill" revision="illusion-4.4" name="android_device_samsung_crespo" groups="device,crespo" />
   
   <!-- Custom Kernels -->
-  <project path="kernel/google/msm" remote="ill" revision="illusion-4.4" name="android_kernel_google_msm" />
   <project path="kernel/lge/hammerhead" remote="ill" revision="illusion-4.4" name="android_kernel_lge_hammerhead" />
   <project path="kernel/samsung/aries" remote="ill" revision="illusion-4.4" name="android_kernel_samsung_aries" />
   <project path="kernel/samsung/d2" remote="ill" revision="illusion-4.4" name="android_kernel_samsung_d2" />
