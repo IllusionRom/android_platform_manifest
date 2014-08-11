@@ -51,7 +51,7 @@
   <project path="prebuilts/gcc/linux-x86/arm/linaro-arm-eabi-4-7" remote="brickedgit" revision="master" name="bricked/android_platform_prebuilts_gcc_linux-x86_arm_linaro-arm-eabi-4-7.git" />
   <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.9" remote="gh" revision="master" name="boostedtc/arm_boosted-arm-eabi-4.9" />
   <project path="prebuilts/gcc/linux-x86/arm/arm-linux-gnueabihf-4.9" remote="ill" revision="master" name="android_platform_prebuilts_gcc_linux-x86_arm_arm-linux-gnueabihf-4.9" />
-  <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9" remote="ill" revision="master" name="android_platform_prebuilts_gcc_linux-x86_arm_linaro-arm-linux-androideabi-4.9" />
+  <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9" remote="gh" revision="aosp-linaro" name="boostedtc/arm_boosted-arm-linux-androideabi-4.9" />
 
   <!-- Illusion Vendors -->
   <project path="vendor/illusion" remote="ill" revision="illusion-4.4" name="android_platform_vendor_illusion">
