@@ -1,0 +1,4 @@
+ Getting Started
+ To get started with Android/IllusionRom, you'll need to get familiar with Git and Repo
+ To initialize your local repository using the ChameleonOS trees, use a command like this:
+ repo init -u git://github.com/IllusionRom/android_platform_manifest.git -b android-4.4.2_r1
